@@ -1,7 +1,7 @@
 ### Hi there, I'm Kunle 👋
 
 - - - - 
-I am a web developer with a passion for bringing ideas to life on the internet. I discovered my love for web development back in 2012 when I started experimenting with customizing WordPress themes. This sparked my interest in HTML & CSS and since then, I've been hooked!
+I am a web developer with a passion for bringing ideas to life on the internet. I discovered my love for web development back in 2015 when I started experimenting with customizing WordPress themes. This sparked my interest in HTML & CSS and since then, I've been hooked!
 
 ##
 <!--
